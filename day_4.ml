@@ -1,5 +1,5 @@
 (*Uporabila sem funkcije za prebiranje in izpisevanje datotek z učilnice.
-Uporabila sem StackOverflow za use in require na naslovu https://stackoverflow.com/questions/37513046/using-str-module-in-ocaml-top-level*)
+Uporavila sem StackOverflow za funkcijo, katera raztavi string na listo karaktera (https://stackoverflow.com/questions/10068713/string-to-list-of-char/10069969)*)
 
 #load "str.cma";;
 
